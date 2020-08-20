@@ -1,4 +1,5 @@
 Esto es el primer archivo del programa
 Hola mi nombre es Wilmar Stiven Valencia Cardona
-Soy estudiante de la Universidad
+La vida es bella
+Era un estudiante de la Universidad del Quindio
 Estamos en plena pandemia
