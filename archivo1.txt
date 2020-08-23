@@ -1,1 +1,4 @@
-Ahora voy a hacer un cambio luego del reset.
+Este es el primer archivo de mi repositorio
+Wilmar pide una modificacion.
+Aqui muere este archivo.
+No murio
