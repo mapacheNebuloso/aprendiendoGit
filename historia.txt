@@ -3,5 +3,4 @@ Hola mi nombre es Wilmar Stiven Valencia Cardona
 La vida es bella
 Era un estudiante de la Universidad del Quindio
 Estamos en plena pandemia
-hola a todos
-aaa
+hola mundo
