@@ -1,7 +1,9 @@
 Este es el primer archivo de mi repositorio
 Wilmar pide una modificacion.
-Wilmar estuvo aqui
 Aqui muere este archivo.
 No murio
 fasdfasd
 Ya tenemos llave ssh
+
+
+Compramos servidor nuevo
